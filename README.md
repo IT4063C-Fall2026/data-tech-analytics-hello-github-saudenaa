@@ -23,24 +23,27 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
-- .
+**I learned:** 
+- How to accept a Github classroom assignmnet and clone a repository locally using Git Bash and HTTPs.
+- How to manage file changes, staging, commiting and pusing code to remote repository on Github 
+- How to navigate project directories using command-line tools and integrate them directly with VS Code.
 
-**I struggled with:** (repeat as needed)
-- .
+**I struggled with:** 
+- Remembering the syntax for Git terminal commands('git add', 'git commit', 'git push') versus performing in VS Code GUI.
 
-**I need the instructor to help me with:** (repeat as needed)
-- .
+**I need the instructor to help me with:** 
+- complpeted all steps successfully.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+**I used the following links, books, and other resources in my work:** 
+- [Github Documentation on cloning] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui)
+
   
-**I received help from the following people:** (repeat as needed)
-- . 
+**I received help from the following people:**
+- Instructor Tony Dang for proving access to the Github Classroom .
 
 ---
 ## Copyrights and License
